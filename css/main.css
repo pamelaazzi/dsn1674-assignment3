@@ -1,1 +1,80 @@
-html
+html {
+  background-color: #7b7b7b;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 5rem;
+  font-style: normal;
+  text-decoration: normal;
+  font-family: 'Bevan', cursive;
+  line-height: .5;
+  color: #57fbbb;
+}
+
+h2 {
+  font-family: 'Bevan', cursive;
+  color: #57fbbb
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-weight: normal;
+}
+
+.cele {
+  color: white;
+}
+
+.round {
+  color: white;
+}
+
+a {
+  color: purple;
+}
+
+a:hover {
+  color: white;
+}
+
+blockquote {
+  font-style: italic;
+  line-height: .9;
+}
+
+footer {
+  text-align: right;
+  font-size: .8rem;
+  color: black;
+}
+
+p {
+  font-family: arial; sans-serif;
+  font-size: .7rem;
+  color: white;
+}
+
+.quote {
+  font-size: 1.5rem;
+  font-family: arial; serif;
+}
+
+ul {
+  list-style-type: lower-roman;
+}
+
+figcaption {
+  font-style: italic;
+  color: white;
+}
+
+dt {
+  font-weight: bold;
+  font-family: Arial;
+
+}
